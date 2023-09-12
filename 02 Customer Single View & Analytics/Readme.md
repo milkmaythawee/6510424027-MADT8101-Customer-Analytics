@@ -1,3 +1,5 @@
+For Data Set: https://drive.google.com/drive/folders/1BgrbjcbbJ5Nz8_oh5xtxJEYDii6A9EtJ?usp=sharing
+
 ![01_Cover](https://github.com/milkmaythawee/6510424027-MADT8101-Customer-Analytics/assets/140238319/f27d076c-69d9-48d8-bb20-77c73168c2fd)
 ![02_Key Finding](https://github.com/milkmaythawee/6510424027-MADT8101-Customer-Analytics/assets/140238319/d6654915-87ea-4750-9625-4c070e033827)
 ![03_Goal](https://github.com/milkmaythawee/6510424027-MADT8101-Customer-Analytics/assets/140238319/34e20fc2-827a-4b89-a833-2d788a0b0ece)
