@@ -26,18 +26,23 @@ The data to be used has the following factor:
    
    ![Screenshot 2023-09-13 004122](https://github.com/milkmaythawee/6510424027-MADT8101-Customer-Analytics/assets/140238319/ef5c8293-3c63-444e-886f-4884a99fd6b6)
 
+
    - check data type to know if What do we do with data, for example, a numeric data group can use k-mean model or category data can use classification model? to find the most appropriate model for the data
-   
+
     ![Screenshot 2023-09-13 004136](https://github.com/milkmaythawee/6510424027-MADT8101-Customer-Analytics/assets/140238319/a794c5ff-6bc7-49eb-8f55-31b699897551)
+
 
    - Editing data duplicated reduces the risk of model prediction errors
      
      ![Screenshot 2023-09-13 004150](https://github.com/milkmaythawee/6510424027-MADT8101-Customer-Analytics/assets/140238319/83a46532-a473-44b2-891f-687da2736bdb)
 
+
    - Check for insight of data : Use available data for statistical calculations to find insights such as relationships, deviations.
 
       ![Screenshot 2023-09-13 004208](https://github.com/milkmaythawee/6510424027-MADT8101-Customer-Analytics/assets/140238319/4a02b947-02a3-4cc7-8e88-fcd405816db2)
 
- 3. Content recommendation medel
+ 2. Content recommendation medel
+
+    
 ![Screenshot 2023-09-13 004226](https://github.com/milkmaythawee/6510424027-MADT8101-Customer-Analytics/assets/140238319/174550ff-c29f-4f20-a33b-c8e619de9dbd)
 ![Screenshot 2023-09-13 004240](https://github.com/milkmaythawee/6510424027-MADT8101-Customer-Analytics/assets/140238319/8a0a1826-4e11-4590-a72a-872ca94b6a61)
