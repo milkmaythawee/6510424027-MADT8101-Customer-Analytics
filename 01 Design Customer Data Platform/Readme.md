@@ -1,0 +1,10 @@
+Project : Lead System
+![CDP Design](https://github.com/milkmaythawee/6510424027-MADT8101-Customer-Analytics/assets/140238319/dbc98a93-07a5-42c5-ba8d-c9d8472e0e4b)
+
+The Lead system consists of a customer data platfrom, data management platform and customer relation ship
+
+1. DMP : Data management platform​
+    - หา Lookalike Audiences ที่หน้าตาคล้ายกับ 1st Party Data ที่เรามี เทียบกับ 3rd Party Data ในตลาด เพื่อขยายฐาน Target Audiences ให้กว้างขึ้นและตรงตามกลุ่ม Target มากที่สุด
+    - สร้าง Buyer Persona สำหรับทำ Targeting โดย Marketers จะเป็นคนเลือกกลุ่มลูกค้าที่ผ่านการทำ Segmentation มาเรียบร้อยแล้วว่าแบ่งออกเป็นกลุ่มไหนบ้าง ยกตัวอย่างง่าย ๆ ว่า เราอยากได้คนที่บินไปเชียงใหม่ทุก ๆ เดือนเป็นประจำ เราก็เพียงแค่เลือก Segments ที่เราต้องการ หลังจากนั้น DMP จะส่งฐานข้อมูลลูกค้าโดยใช้ Annonymous Identity (Devices-ID or Cokkies-ID)ให้กับผู้ให้บริการซื้อ Media หรือในวงการโฆษณาเรารู้จักกันดีในชื่อ Demand Side Platform (DSP) ไปหาคนกลุ่มนี้แสดงโฆษณา ซึ่งกระบวนการทั้งหมดนี้จะวนลูปซ้ำ ๆ ไปเรื่อย ๆ แบบ Real-time เมื่อมีข้อมูลใหม่เข้ามา DMP ก็จะทำการ Segmentation เพื่อแบ่งกลุ่มและส่งข้อมูลลูกค้าที่ไม่ได้ระบุตัวตน ตาม Attributes ที่เราเลือกไว้ ให้ DSP แสดงโฆษณา ทำแบบนี้ไปเรื่อย ๆ
+    - Personalize เนื้อหาให้กับโฆษณาหรือเว็บไซต์ DMP จะทำการเรียนรู้ว่าคนกลุ่มไหนต้องแสดง Creatives แบบไหนเพื่อทำให้เขาสนใจ ประโยชน์จากการที่ DMP ทำงานบนพื้นฐานของข้อมูลที่ไม่ระบุตัวตน ทำให้เราสามารถใช้ DMP optimize funnel ใน stage ของการหาลูกค้าใหม่ (Acquisition) ได้ ยกตัวอย่างเช่น เราเป็นคนที่เข้าเว็บไซต์ขายของชื่อดังเจ้าหนึ่ง เว็บไซต์ไม่รู้ว่าเราเป็นใคร แต่เว็บไซต์รู้พฤติกรรมพื้นฐานของเราจาก Devices-ID หรือ Cookies-ID ซึ่ง DMP จะทำการเอาข้อมูลเหล่านั้นไปทำ Segmentation เพื่อหาว่าเราเป็นคนกลุ่มไหน ควรที่จะเสิร์ฟ Content แบบไหนให้เรา เมื่อรู้แล้ว DMP จะติดต่อกับเว็บไซต์ หรือในทางการตลาดเราเรียกกันว่า Digital Personalization Engine (DPE) เพื่อให้ DPE ไปปรับ Content ในหน้าเว็บไซต์ให้ตอบโจทย์เรามากขึ้น กว่า Content ปกติ
+  *DMP : Data management platform​ ใน Lead System ได้แก่ข้อมูลจาก Facebook Pixel, Facebook Business Manager, Google Ads, Google Analytics, Ecommerce Platform
